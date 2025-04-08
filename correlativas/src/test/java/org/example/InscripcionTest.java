@@ -49,4 +49,5 @@ class InscripcionTest {
         Assertions.assertTrue(inscripcion.aprobada());
     }
 
+
 }
